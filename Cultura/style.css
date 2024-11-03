@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smothing: antialiased;
+}
+
+body{
+    background-image: url('../imagens/Cultura.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 54rem;
+}
+
+
+a, h1{
+    margin-right: 3.3rem;
+    color: white;
+    display: inline-block;
+    font-size: 2.5rem;
+    text-decoration: none;
+}
+
+header img{
+    width: 12rem;
+    height: 8rem;
+    display: inline-block;
+}
+
+header{
+    background-color: #A93500;
+}
+
+.texto{
+    background-color: #fff7fb;
+    padding: 28px;
+    border-radius: 12px;
+    height: 20rem;
+    width: 25rem;
+    margin-top: 7rem;
+    margin-bottom: 10px;
+    margin-left: 10rem;
+}
