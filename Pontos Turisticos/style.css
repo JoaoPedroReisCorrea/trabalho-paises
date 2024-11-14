@@ -6,14 +6,15 @@
 }
 
 body{
-    background-image: url('../imagens/fundo\ ponto\ turistico\ 2.jpeg');
+    background-image: url('../imagens/Pontos\ turisticos\ mapa.jpg');
     background-size: cover;
     background-position: center;
     height: 40rem;
 }
 
 header h1{
-margin-right: 6.9rem;
+margin-right: 3.8rem;
+margin-left: 3rem;
 color: white;
 display: inline-block;
 font-size: 2.5rem;
@@ -34,7 +35,7 @@ header img{
 }
 
 header{
-    background-color: #A93500;
+    background-color: #A01D1E;
 }
 
 .texto{

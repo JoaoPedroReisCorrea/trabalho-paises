@@ -6,14 +6,14 @@
 }
 
 body{
-    background-image: url('./imagens/imagem\ fundo\ turquia.jpeg');
+    background-color: whitesmoke;
     background-size: cover;
     background-position: center;
     height: 54rem;
 }
 
 h1{
-    margin-right: 12.5rem;
+    margin-right: 10.2rem;
     margin-left: 3rem;
     color: white;
     display: inline-block;
@@ -37,17 +37,6 @@ header img{
 
 header{
     background-color: #A01D1E;
-}
-
-.texto{
-    background-color: #fff7fb;
-    padding: 28px;
-    border-radius: 12px;
-    height: 28rem;
-    width: 25rem;
-    margin-top: 7rem;
-    margin-bottom: 10px;
-    margin-left: 10rem;
 }
 
 p{
